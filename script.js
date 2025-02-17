@@ -26,28 +26,28 @@ const cityData = {
         monuments: ["Ciutat de les Arts i les Ciències", "Catedral de Valencia"],
         gastronomy: ["Paella valenciana", "Horchata y fartons"],
         events: ["Falles", "Tomatina"],
-        curiosity: "La paella originale viene da Valencia."
+        curiosity: "La paella original proviene de Valencia."
     },
     granada: {
         name: "Granada",
         monuments: ["Alhambra", "Generalife"],
         gastronomy: ["Habas con jamón", "Piononos"],
         events: ["Festival Internacional de Música y Danza", "Feria de Corpus Christi"],
-        curiosity: "L'Alhambra è considerata uno dei sette meravigliosi monumenti di Spagna."
+        curiosity: "La Alhambra es considerada uno de los siete maravillosos monumentos de España."
     },
     bilbao: {
         name: "Bilbao",
         monuments: ["Museo Guggenheim", "Catedral de Santiago"],
         gastronomy: ["Pintxos", "Mariscos"],
         events: ["Aste Nagusia", "Gran Prix de Euskadi"],
-        curiosity: "Il Museo Guggenheim Bilbao è uno dei musei contemporanei più famosi al mondo."
+        curiosity: "El Museo Guggenheim Bilbao es uno de los museos contemporáneos más famosos del mundo."
     },
     malaga: {
         name: "Málaga",
         monuments: ["Alcazaba", "Castillo de Gibralfaro"],
         gastronomy: ["Boquerones en vinagre", "Gazpacho"],
         events: ["Feria de Málaga", "Semana Santa"],
-        curiosity: "Málaga è la città natale di Pablo Picasso."
+        curiosity: "Málaga es la cuna de Pablo Picasso."
     }
 };
 
